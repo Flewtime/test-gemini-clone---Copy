@@ -1,4 +1,4 @@
-# React + Vite
+# Gemini AI Clone
 
 Access it here : https://test-gemini-clone-jvk.vercel.app/
 Shout out to GreatStack for amazing tutorial
